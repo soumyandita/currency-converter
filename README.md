@@ -54,9 +54,7 @@ currency-converter/
 
 ## 🌐 Live Demo
 
-**Coming Soon!**
-
-Add your deployed website link here once your project is live.
+https://soumyandita.github.io/currency-converter/
 
 ## 📸 Preview
 
