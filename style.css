@@ -114,3 +114,9 @@ button:hover {
         width: 100vmin;
     }
 }
+
+@media (max-height: 800px) {
+    .container {
+        min-height: 50vmin;
+    }
+}
